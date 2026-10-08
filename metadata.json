@@ -1,0 +1,6 @@
+{
+  "name": "AI SOS Guardian",
+  "description": "AI-assisted emergency SOS, live-location tracking, risk analysis engine, and responder command center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

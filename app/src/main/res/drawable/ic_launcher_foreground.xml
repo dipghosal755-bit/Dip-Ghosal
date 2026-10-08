@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:pivotX="54"
+        android:pivotY="54">
+        <!-- Emergency Shield Base -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M 54,23 L 78,32 C 78,57 68,74 54,84 C 40,74 30,57 30,32 Z" />
+        <!-- Inner Red Accent Shield -->
+        <path
+            android:fillColor="#D32F2F"
+            android:pathData="M 54,28 L 74,35.5 C 74,56 65,70 54,78.5 C 43,70 34,56 34,35.5 Z" />
+        <!-- Emergency Lifeline Pulse & Cross in White -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M 50,40 L 58,40 L 58,49 L 67,49 L 67,57 L 58,57 L 58,66 L 50,66 L 50,57 L 41,57 L 41,49 L 50,49 Z" />
+        <!-- Central Radar Beacon Core -->
+        <path
+            android:fillColor="#FFD54F"
+            android:pathData="M 54,51 A 2.5,2.5 0 1,0 54,55 A 2.5,2.5 0 1,0 54,51 Z" />
+    </group>
+</vector>
